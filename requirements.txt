@@ -1,0 +1,30 @@
+# Core ML / DL
+tensorflow==2.20.0
+keras==2.20.0
+
+# TensorFlow dependencies
+absl-py>=1.0.0
+astunparse>=1.6.0
+flatbuffers>=23.5.26
+gast>=0.5.4
+google-pasta>=0.2.0
+grpcio>=1.24.3
+h5py>=3.10.0
+libclang>=16.0.0
+ml-dtypes>=0.3.2
+numpy>=1.26.4
+opt-einsum>=3.3.0
+packaging
+protobuf>=4.25.0
+setuptools
+six>=1.15.0
+tensorboard>=2.20.0
+tensorflow-estimator>=2.20.0
+termcolor>=2.3.0
+typing-extensions>=4.5.0
+wrapt>=1.14.0
+
+# Extra utils
+requests>=2.31.0
+beautifulsoup4>=4.12.2
+lxml>=4.9.3
